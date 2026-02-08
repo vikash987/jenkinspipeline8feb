@@ -2,8 +2,8 @@ class MultiplyTwoNumbers {
 
   public static void main(String[] args) {
     
-    int first = 10.53;
-    int second = 21.3;
+    int first = 11;
+    int second = 278;
 
     // add two numbers
     int sum = first + second;
